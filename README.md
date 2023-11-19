@@ -1,3 +1,3 @@
 # Chapter 2
 
-Code for Chapter 2 of "Estimation and inference with weak instruments".
+This repository contains MATLAB and Python code for replicating Chapter 2 "Overidentification testing in consumption models" of the Thesis "Estimation and Inference with Weak Instruments".
